@@ -1,4 +1,3 @@
-// internal/domain/entities.go
 package domain
 
 import "errors"

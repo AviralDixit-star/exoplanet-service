@@ -9,7 +9,7 @@ This microservice provides functionalities to manage exoplanets.
 - `GET /exoplanets/{id}` - Get an exoplanet by ID
 - `PUT /exoplanets/{id}` - Update an exoplanet
 - `DELETE /exoplanets/{id}` - Delete an exoplanet
-- `GET /exoplanets/{id}/fuel?crew_capacity=5` - Get fuel estimation for a trip
+- `GET /exoplanets/{id}/fuel?crew_capacity=?` - Get fuel estimation for a trip
 
 ## Build and Run
 
